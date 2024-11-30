@@ -1,0 +1,30 @@
+ body{
+    font-family: Arial, Helvetica, sans-serifw;
+ }
+ h1{
+    border-top :2px solid black;
+    border-radius: 20px;
+    padding:0 10% 0;
+    color: green;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px red;
+    background-color: rgba(78, 78, 160, 0.192);
+    text-align: justify;
+    
+   
+}
+img{
+    width: 200px;
+    height: 200px;
+    float: inline-end;
+    position: fixed;
+    top: 0%;
+    right: 0px;
+   
+}
+h2{
+    color: blue;
+    font-size: 20px;
+    font-style:oblique
+}
